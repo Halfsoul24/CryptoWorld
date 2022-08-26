@@ -2,9 +2,14 @@
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
-<img width="725" alt="image" src="https://user-images.githubusercontent.com/58396104/186796322-ba3f32eb-b49b-4f2d-b697-23f7611eb965.png">
+<img width="934" alt="image" src="https://user-images.githubusercontent.com/58396104/186796733-2532243e-6de6-4b5d-802b-19aec14768db.png">
 
-<img width="698" alt="image" src="https://user-images.githubusercontent.com/58396104/186796365-9cf1ed6d-8d5c-4e1d-9dd4-fefca9cc4b01.png">
+<img width="936" alt="image" src="https://user-images.githubusercontent.com/58396104/186796870-6cc583bf-3d27-45e6-ab90-575f98c139b2.png">
+
+<img width="936" alt="image" src="https://user-images.githubusercontent.com/58396104/186796828-daf2cc11-5b8d-4048-a167-0d9f5f5d1c70.png">
+
+
+
 
 
 https://itsallcrypto.netlify.app/
